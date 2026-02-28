@@ -4,7 +4,6 @@
 
 I am a software engineering student based in Casablanca, Morocco. My development background ranges from systems-level logic to building structured, scalable applications. I focus on writing clean, maintainable code with a strong emphasis on backend architecture and cross-platform mobile development.
 
----
 
 ### Technical Proficiency
 
@@ -24,22 +23,18 @@ I am a software engineering student based in Casablanca, Morocco. My development
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) **Workflow:** Version control and automated pipelines.
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) **Environment:** Containerization and environment scripting.
 
----
 
 ### Current Focus
 - Refining Spring Boot service layers and security implementations.
 - Optimizing performance and lifecycle management in Flutter applications.
 - Automating development workflows using GitHub Actions.
 
----
 
 ### GitHub Streak
 ![Amine's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmineSidki&theme=dark&hide_border=true)
 
----
 
 ### Contact
 - **Location:** Casablanca, Morocco
 - **Focus:** Backend Engineering | Mobile Development | Software Architecture
 
----
