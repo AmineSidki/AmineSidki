@@ -1,36 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="240" height="50" viewBox="0 0 240 50">
-  <!-- Black Button Background -->
   <rect width="240" height="50" rx="8" fill="#0b0b0f" stroke="#222226" stroke-width="1"/>
-
-  <!-- Star Group 1 (Moving Left to Right) -->
-  <g fill="#ffffff">
-    <!-- Star A -->
-    <circle r="1" cx="-10" cy="15">
-      <animate attributeName="cx" from="-10" to="250" dur="3s" repeatCount="indefinite" begin="0s"/>
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.2;0.8;1" dur="3s" repeatCount="indefinite" begin="0s"/>
-    </circle>
-    <!-- Star B -->
-    <circle r="1.5" cx="-10" cy="35">
-      <animate attributeName="cx" from="-10" to="250" dur="4s" repeatCount="indefinite" begin="1s"/>
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.2;0.8;1" dur="4s" repeatCount="indefinite" begin="1s"/>
-    </circle>
-  </g>
-
-  <!-- Star Group 2 (Flickering / Moving Faster) -->
-  <g fill="#e2e8f0">
-    <!-- Star C -->
-    <circle r="1" cx="-10" cy="25">
-      <animate attributeName="cx" from="-10" to="250" dur="2.5s" repeatCount="indefinite" begin="0.5s"/>
-      <animate attributeName="opacity" values="0;0.8;0.8;0" keyTimes="0;0.1;0.9;1" dur="2.5s" repeatCount="indefinite" begin="0.5s"/>
-    </circle>
-    <!-- Star D -->
-    <circle r="2" cx="-10" cy="10">
-      <animate attributeName="cx" from="-10" to="250" dur="5s" repeatCount="indefinite" begin="2s"/>
-      <animate attributeName="opacity" values="0;1;0.3;1;0" keyTimes="0;0.2;0.5;0.8;1" dur="5s" repeatCount="indefinite" begin="2s"/>
-    </circle>
-  </g>
-
-  <!-- Button Text -->
+  <circle r="1" cy="15" cx="0" fill="#ffffff">
+    <animate attributeName="cx" values="-10;250" dur="3s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.2;0.8;1" dur="3s" repeatCount="indefinite" />
+  </circle>
+  <circle r="1.5" cy="35" cx="0" fill="#ffffff">
+    <animate attributeName="cx" values="-10;250" dur="4s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.2;0.8;1" dur="4s" repeatCount="indefinite" />
+  </circle>
+  <circle r="1" cy="25" cx="0" fill="#e2e8f0">
+    <animate attributeName="cx" values="-10;250" dur="2.5s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0;0.8;0.8;0" keyTimes="0;0.1;0.9;1" dur="2.5s" repeatCount="indefinite" />
+  </circle>
+  <circle r="2" cy="10" cx="0" fill="#e2e8f0">
+    <animate attributeName="cx" values="-10;250" dur="5s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0;1;0.3;1;0" keyTimes="0;0.2;0.5;0.8;1" dur="5s" repeatCount="indefinite" />
+  </circle>
   <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="0.5">
     Read more on my blog →
   </text>
