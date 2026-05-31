@@ -24,4 +24,9 @@ A document processing tool that extracts structured metadata from PDFs or raw te
 **Frameworks:** Spring Boot · Flutter · React · Bootstrap · Tailwind CSS  
 **Infrastructure:** PostgreSQL · MySQL · Redis · MinIO · Docker · Docker Compose · GitHub Actions · Git · Bash
 
-[![Read more on my blog](assets/button.gif)](https://aminesidki-blog.vercel.app/)
+<br>
+<p align="center">
+  <a href="https://aminesidki-blog.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Read_more_on_my_blog-000000?style=for-the-badge" alt="Read more on my blog">
+  </a>
+</p>
