@@ -2,9 +2,9 @@
 Software engineering student at FST-Settat (Hassan 1er University), mostly working on backend systems and distributed architecture.
 
 ## About me
-I got into programming through Unity and C#, then more formally through C — data structures, memory management, system calls. C is capricious, but spending enough time with it leaves marks: it shaped how I think about what a program actually does, and it's what pulled me toward backend work and systems design when I moved to higher-level languages.
+I got into programming through Unity and C#, then more formally through C — data structures, memory management, system calls. C is capricious, but spending enough time with it shaped how I think about what a program actually does, and it's what pulled me toward backend work and systems design when I moved to higher-level languages.
 
-Today I mostly work in Java with Spring Boot, digging into new parts of the framework while building things that actually run. Lately I've also been getting into mobile development through Flutter — chasing performance on constrained hardware scratches the same itch.
+Today I mostly work in Java with Spring Boot, digging into new parts of the framework while building things that actually run. Lately I've also been getting into mobile development through Flutter as, to me, chasing performance on constrained hardware scratches the same itch.
 
 ## Projects
 
