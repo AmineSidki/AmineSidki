@@ -7,15 +7,12 @@ I got into programming through Unity and C#, then more formally through C — da
 Today I mostly work in Java with Spring Boot, digging into new parts of the framework while building things that actually run. Lately I've also been getting into mobile development through Flutter as, to me, chasing performance on constrained hardware scratches the same itch.
 
 ## Projects
-
-### [Sprout](https://github.com/AmineSidki/Sprout)
-A CLI tool that scaffolds Spring Boot boilerplate from your JPA `@Entity` classes: repositories, services, DTOs (as Java records), MapStruct mappers, REST controllers, and exception classes.
-
-### [DeepDame](https://github.com/abdellah-darni/DeepDame)
-A real-time multiplayer checkers platform with friend invites, random matchmaking, and a single-player mode against a game engine.
-
-### [PostPrep](https://github.com/AmineSidki/PostPrep-Backend)
-A document processing tool that extracts structured metadata from PDFs or raw text: title, summary, keywords, categories, language, and SEO title.
+<p align="center">
+  <img src="https://aminesidki-badges.vercel.app/api/card?title=DeepDame&text=A%20real-time%20multiplayer%20checkers%20platform%20with%20friend%20invites,%20random%20matchmaking,%20and%20a%20single-player%20mode%20against%20a%20game%20engine.&width=397&accent=pink">
+  <img src="https://aminesidki-badges.vercel.app/api/card?title=Postprep&text=A%20document%20processing%20tool%20that%20extracts%20structured%20metadata%20from%20PDFs%20or%20raw%20text:%20title,%20summary,%20keywords,%20categories,%20language,%20and%20SEO%20title.&width=397&accent=green">
+  <br>
+  <img src="https://aminesidki-badges.vercel.app/api/card?title=Sprout&text=A%20CLI%20tool%20that%20scaffolds%20Spring%20Boot%20boilerplate%20from%20your%20JPA%20@Entity%20classes:%20repositories,%20services,%20DTOs%20(as%20Java%20records),%20MapStruct%20mappers,%20REST%20controllers,%20and%20exception%20classes.&width=800&accent=blue">
+</p>
 
 ## Stack
 **Languages:** C · Java · Python · Dart · JavaScript · HTML/CSS  
