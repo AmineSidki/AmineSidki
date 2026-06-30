@@ -23,13 +23,9 @@ A document processing tool that extracts structured metadata from PDFs or raw te
 **Infrastructure:** PostgreSQL · MySQL · Redis · MinIO · Docker · Docker Compose · GitHub Actions · Git · Bash
 
 <br>
-<p align="center">
-  <a href="https://aminesidki-blog.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Read_more_on_my_blog-000000?style=for-the-badge" alt="Read more on my blog">
-  </a>
-  <hr>
-</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AmineSidki/badges/main/made-by-amine-badge.svg">
+  <a href="https://aminesidki-blog.vercel.app/" target="_blank">
+    <img src="https://aminesidki-badges.vercel.app/api/badge?text=Read%20more%20on%20my%20blog&accent=purple">
+  </a>
 </p>
