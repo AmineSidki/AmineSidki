@@ -27,4 +27,9 @@ A document processing tool that extracts structured metadata from PDFs or raw te
   <a href="https://aminesidki-blog.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Read_more_on_my_blog-000000?style=for-the-badge" alt="Read more on my blog">
   </a>
+  <hr>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmineSidki/badges/main/made-by-amine-badge.svg">
 </p>
